@@ -1,4 +1,12 @@
 %Inclass 20
+%GB comments
+No plots in the script 
+1A 80
+1B 80
+1C 80
+2. 80
+Overall 80
+
 
 %In this folder you will find data .mat file with x and y data
 
